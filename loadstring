@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xGronox/xGronox/main/Treasure%20Quest"))()
